@@ -1,0 +1,26 @@
+# MPLAB generated files
+
+build/
+dist/
+nbproject/
+Makefile
+
+# Object files
+
+*.o
+*.obj
+*.elf
+*.hex
+
+# Executables
+
+*.exe
+
+# Misc
+
+*.bak
+.directory
+
+# Proteus personal workspace
+
+*.workspace
